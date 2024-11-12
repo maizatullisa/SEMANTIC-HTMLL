@@ -21,7 +21,7 @@ PENJELASAN TAG HTML :
 
 9. <header>: Menandakan bagian header dari halaman, biasanya berisi judul atau elemen navigasi utama. Dalam hal ini, header berisi judul "HTML5 SEMANTIC".
 
-10. <h1>HTML5 SEMANTIC</h1>: Elemen heading utama yang menampilkan judul halaman dengan ukuran terbesar.
+10. <h1></h1>: Elemen heading utama yang menampilkan judul halaman dengan ukuran terbesar.
 
 11. <nav>: Bagian navigasi dari halaman, biasanya berisi tautan untuk berpindah ke bagian lain di halaman atau ke halaman lain.
 
